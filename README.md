@@ -1,4 +1,3 @@
-## Done in online course at Udemy.com 👋
+# Hi There
 
-### copyright reserved to appbrewery 
-### course -- The Complete 2020 Web Development Bootcamp
+## Welcome to my GitHub Profile!
